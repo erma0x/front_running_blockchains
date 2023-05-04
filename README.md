@@ -9,6 +9,6 @@ In essence, the price of an asset can substantially increase or decrease with a 
 
     1. The attacker detects the victim’s transaction in the memepool.
     2. They front-run the victim’s transaction by attaching a higher transaction fee, thus ensuring the attacker’s transaction gets executed before the victim’s.
-    3.     Victims’ transactions get executed and suffer higher slippage by paying higher for an asset than they expected because of the attacker’s transaction resulting in an increase in the price of the asset.
-    4.     The attacker then back-runs the victim and makes a profit.
-    5.     Thus executing a sandwich attack – sandwiching the victim’s transaction with two transactions.
+    3. Victims’ transactions get executed and suffer higher slippage by paying higher for an asset than they expected because of the attacker’s transaction resulting in an increase in the price of the asset.
+    4. The attacker then back-runs the victim and makes a profit.
+    5. Thus executing a sandwich attack – sandwiching the victim’s transaction with two transactions.
